@@ -11,7 +11,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
+  email: 'rhyspham@gmail.com',
   github: 'https://github.com/h4upt',
   twitter: 'https://twitter.com/h4upt',
   facebook: 'https://facebook.com/h4upt',
