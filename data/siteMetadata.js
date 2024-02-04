@@ -11,12 +11,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'rhyspham@gmail.com',
+  email: 'h4upt.io@gmail.com',
   github: 'https://github.com/h4upt',
   twitter: 'https://twitter.com/h4upt',
   facebook: 'https://facebook.com/h4upt',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  youtube: 'https://www.youtube.com/@h4uptio',
+  linkedin: 'https://www.linkedin.com/in/h4upt/',
   locale: 'en',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
