@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.h4upt.io/',
-  siteRepo: 'https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n',
+  siteRepo: 'https://github.com/h4upt/tailwind-nextjs-starter-blog-i18n',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@h4upt',
@@ -91,7 +91,7 @@ const siteMetadata = {
   //if set to false, simple "mailto"
   // if set to true, get a free account there : https://formspree.io/
   // and fill the NEXT_FORMSPREE_KEY env variable with the key they provide to you
-  formspree: true,
+  formspree: false,
   iswaline: false,
   walineServer: '',
 }
