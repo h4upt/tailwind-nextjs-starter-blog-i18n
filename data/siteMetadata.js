@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'A Industrial Automation Blog',
+  title: 'An Industrial Automation Blog',
   author: 'Thanh Hau Pham',
   headerTitle: 'TailwindBlog',
   description: 'A blog created with Next.js, i18n and Tailwind.css',
