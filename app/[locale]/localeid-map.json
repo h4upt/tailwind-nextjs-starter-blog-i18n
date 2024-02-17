@@ -1,50 +1,50 @@
 {
   "codesample": {
     "en": "posts/code-sample",
-    "fr": "articles/exemple-code"
+    "vi": "posts-vi/code-sample-vi"
   },
   "derivingols": {
     "en": "posts/deriving-ols-estimator",
-    "fr": "articles/derivation-estimateur-ols"
+    "vi": "posts-vi/deriving-ols-estimator-vi"
   },
   "mardownguide": {
     "en": "posts/github-markdown-guide",
-    "fr": "articles/guide-github-markdown"
+    "vi": "posts-vi/github-markdown-guide-vi"
   },
   "nextjsimagesguide": {
     "en": "posts/guide-to-using-images-in-nextjs",
-    "fr": "articles/guide-utilisation-images-nextjs"
+    "vi": "posts-vi/guide-to-using-images-in-nextjs-vi"
   },
   "canadapictures": {
     "en": "posts/images-du-canada",
-    "fr": "articles/pictures-of-canada"
+    "vi": "posts-vi/images-du-canada-vi"
   },
   "introducingstarterblogi18n": {
     "en": "posts/internationalization-v2",
-    "fr": "articles/internationalisation-v2"
+    "vi": "posts-vi/internationalization-v2-vi"
   },
   "introducingstarterblog": {
     "en": "posts/introducing-tailwind-nextjs-starter-blog",
-    "fr": "articles/presentation-blog-starter-tailwind-nextjs"
+    "vi": "posts-vi/introducing-tailwind-nextjs-starter-blog-vi"
   },
   "myfancytitle": {
     "en": "posts/my-fancy-title",
-    "fr": "articles/mon-titre-fancy"
+    "vi": "posts-vi/my-fancy-title-vi"
   },
   "newfeaturesv1": {
     "en": "posts/new-features-in-v1",
-    "fr": "articles/nouvelles-fonctionnalites-v1"
+    "vi": "posts-vi/new-features-in-v1-vi"
   },
   "releasev2": {
     "en": "posts/release-of-tailwind-nextjs-starter-blog-v2.0",
-    "fr": "articles/presentation-starter-blog-tailwind-nextjs-v2.0"
+    "vi": "posts-vi/release-of-tailwind-nextjs-starter-blog-v2.0-vi"
   },
   "thetimemachine": {
     "en": "posts/the-time-machine",
-    "fr": "articles/la-machine-a-remonter-le-temps"
+    "vi": "posts-vi/the-time-machine-vi"
   },
   "nestedroutes": {
     "en": "posts/nested-route/introducing-multi-part-posts-with-nested-routing",
-    "fr": "articles/route-imbriquee/presentation-publications-en-plusieurs-parties-routage-imbrique"
+    "vi": "posts-vi/nested-route/introducing-multi-part-posts-with-nested-routing-vi"
   }
 }

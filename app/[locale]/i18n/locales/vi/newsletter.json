@@ -1,0 +1,9 @@
+{
+  "mail": "Địa chỉ email",
+  "title": "Đăng ký nhận bản tin",
+  "messageError": "Địa chỉ email của bạn không hợp lệ hoặc bạn đã đăng ký!",
+  "placeholderSuccess": "Bạn đã đăng ký thành công! ",
+  "placeholderDefault": "Nhập email của bạn",
+  "buttonSuccess": "Cảm ơn!",
+  "buttonDefault": "Đăng ký"
+}
