@@ -93,7 +93,7 @@ const siteMetadata = {
   formspree: true,
   // waline support
   iswaline: true,
-  walineServer: 'https://waline-gamma-rouge.vercel.app/',
+  walineServer: 'https://comment.h4upt.io/',
 }
 
 module.exports = siteMetadata
